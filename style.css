@@ -100,5 +100,9 @@ input[type=button] {
 #but{
   text-align:center;
 }
-
+.app{
+  text-align:center;
+  top-padding: 30px;
+  left-padding: 70px;
+}
   
